@@ -9,11 +9,29 @@ redirect_from:
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+疫情之下，我们都是在线教育的受害者
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+从19年9月开始全身心做线上课之后，从来都没想到20年的这场灾难把在线教育推到了这样一个风口。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+为什么我们排斥网课/线上课？
+
+
+用“毁誉参半”来形容这次疫情中的在线教学根本是言过其实。网课的表现可以说对在线教育是海啸式的毁灭。不合格的教育者在这次“形式大过内容“的乱象中纷纷遁形，原因其实很简单：
+
+
+1. 线上课是一种新的教学方式，而大部分老师对硬件和新模式的抗拒，从起点就已经输了；
+
+2. 线上课对学生的学习要求不再满足于“灌输型”成长，而很多人既没有自主学习的能力，也无从在老师那里得到自主学习能力提高的方法论。
+
+所以在线教育带给我们的新问题就是：输出型人才是教育追求的成果吗？学习能力的培养和分数的必要性如何平衡？
+
+在美国大学课堂里有一个很流行的7/3/1理论，即10%是instruct，也就是我们常说的教学输出；30%是mentor或又称为coach，更多是教授（jiāoshòu）指导学生使用方法；而剩下的70%则是practice，也就是实践即练习。先不说很多线下课老师忽视了教学输出和实践部分的匹配。线上课老师往往连最基本的指导和互动都会忽略，一不小心，就变成大型“口嗨”现场，更别提如何去平衡占比最重的coach和practice。与其说我们现在抵触的是线上课这样的上课模式，不如说，我们抵触的，是为了上课而上课的形式。
+Here’s a video text:
+
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/watch?v=GJ_E8Og1doU&list=RDGJ_E8Og1doU&start_radio=1" 
+        frameborder="0" allowfullscreen>
+</iframe>
 
 Getting started
 ======
